@@ -1,0 +1,33 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+*.nuget.orig
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vssscc
+*.vssscc-tmp
+*.vsp
+*.vspx
+*.vbw
+*.svclog
+*.vspscc
+*.scc
+
+# Ignore Visual Studio cache files
+*.vs
+*.cache
+*.obj
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*.pgc
+*.pgd
+*.pgocache
